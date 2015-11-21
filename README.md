@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/moon07/beanieboo.png?label=ready&title=Ready)](https://waffle.io/moon07/beanieboo)
 # Beanieboo
 
 ## This will be my online Beanie Boo book.
