@@ -4,10 +4,10 @@
 
 **Project Outline**
 1. There will be a page for each Beanie Boo. Each Beanie Boo page will show one picture of the Beani Boo and will have a description for the Beanie Boo and will describe their eyes.
-  1. The Description:
-    1. The Beanie Boo name
-    2. The Beanie Boo birthday
-    3. What they like
+2. The Description:
+  1. The Beanie Boo name
+  2. The Beanie Boo birthday
+  3. What they like
 
 **Site Map**
 1. Main page - index.html
